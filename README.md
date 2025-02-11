@@ -36,7 +36,7 @@ This project implements and compares deep neural networks with residual connecti
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/yourusername/image-classification-resnets.git
+git clone https://github.com/NeerajBuneeti/image-classification-resnets.git
 cd image-classification-resnets
 
 # Create virtual environment
