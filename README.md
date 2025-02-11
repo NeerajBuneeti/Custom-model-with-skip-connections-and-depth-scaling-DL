@@ -1,9 +1,5 @@
 # Custom Model with Skip Connections and Depth Scaling DL/
 
-![Stars](https://img.shields.io/github/stars/username/repository?style=social)
-![Forks](https://img.shields.io/github/forks/username/repository?style=social)
-
-
 ## 📌 Overview
 This project implements and compares deep neural networks with residual connections for image classification, focusing on two challenging datasets: **Facial Expression Recognition (FER)** and **Butterfly Species Classification**. Our custom CNN architecture combines principles from VGGNet and ResNet to address vanishing gradients while maintaining computational efficiency.
 
